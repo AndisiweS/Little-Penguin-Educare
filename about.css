@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {text-align: center;
+    background-image: url(./images/crayons.jpg);
+    background-size: cover;
+    color: white;
+    padding: 100px 50px;
+}
+header nav ul {
+    list-style-type: none;
+    margin: 0px; 
+    padding: 20px;
+    overflow: hidden;
+    background-color: lightskyblue;
+ }
+          
+ header nav ul li {
+float: right;
+    }
+.logo {
+float: left;
+} 
+header nav ul li a {
+display:inline-block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+          
+header nav ul li a:hover {
+background-color: lightcoral;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0; 
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+
+
+    
